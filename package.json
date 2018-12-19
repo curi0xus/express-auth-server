@@ -1,0 +1,32 @@
+{
+  "name": "express-auth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "debug": "^4.1.0",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "express-limiter": "^1.6.1",
+    "express-unless": "^0.5.0",
+    "hiredis": "^0.5.0",
+    "jsonwebtoken": "^8.3.0",
+    "jwt-simple": "^0.5.5",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.1",
+    "morgan": "^1.9.1",
+    "on-finished": "^2.3.0",
+    "passport": "^0.4.0",
+    "redis": "^2.8.0",
+    "response-time": "^2.3.2"
+  }
+}
